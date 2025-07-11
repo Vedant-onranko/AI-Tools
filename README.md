@@ -13,6 +13,7 @@ A curated list of artificial intelligence (AI) tools.
 - Writesonic - writesonic.com
 - ChatGPT - chat.openai.com
 - Stable Diffusion - lnkd.in/gaRJqgbH
+- Serplux - serplux.com
 
 ## Writing
 
@@ -40,6 +41,8 @@ A curated list of artificial intelligence (AI) tools.
 - Simplified - simplified.co
 - Mutiny - mutinyhq.com
 - ContentEdge - contentedge.ai
+- Serplux - serplux.com
+- 
 
 ## Copywriting
 
